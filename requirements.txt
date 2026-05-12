@@ -1,4 +1,9 @@
 streamlit
+av
+streamlit-webrtc
+tornado
+opencv-python-headless
+face_recognition
 numpy
 Pillow
 qrcode
