@@ -3,3 +3,8 @@ build-essential
 libsm6
 libxext6
 libxrender-dev
+av
+streamlit-webrtc
+tornado
+opencv-python-headless
+face_recognition
